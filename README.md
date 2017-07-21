@@ -2,7 +2,7 @@
 ## Data Structures
 * Dynamic Array
 * Linked List  
-* binary tree 
+* Binary Tree 
 
 ## Algorithms
 ### Sorting
