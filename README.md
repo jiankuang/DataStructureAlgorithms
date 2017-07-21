@@ -1,4 +1,9 @@
 # Data Structures and Algorithms
 ## Data Structures
-Linked List  
-binary tree 
+* Dynamic Array
+* Linked List  
+* binary tree 
+
+## Algorithms
+### Sorting
+* Bubble Sort
